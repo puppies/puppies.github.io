@@ -1,13 +1,13 @@
 # Site settings
-title: David Miller
+title: Puppies
 header-img: img/home-bg.jpg
-email: david@ironsummitmedia.com
-description: "The official blog of David Miller, creator of Start Bootstrap and managing partner of Iron Summit Media Strategies"
-baseurl: "/davidtmiller-website"
-url: "http://davidtmiller.github.io/davidtmiller-website/"
-twitter_username: davidmillerskt
-github_username:  davidtmiller
-facebook_username:  dmironsummit
+email: fightingpuppies@gmail.com
+description: "This is my blog"
+baseurl: "/"
+url: "http://puppies.github.io/"
+twitter_username: puppies
+github_username:  puppies
+facebook_username:  puppies
 
 # Build settings
 markdown: kramdown
