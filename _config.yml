@@ -3,7 +3,7 @@ title: Puppies
 header-img: img/home-bg.jpg
 email: fightingpuppies@gmail.com
 description: "This is my blog"
-baseurl: "/"
+baseurl: ""
 url: "http://puppies.github.io/"
 twitter_username: puppies
 github_username:  puppies
